@@ -54,3 +54,22 @@
     font-size: 100px;
     color: white;
 }
+
+
+/* section 2 */
+
+.div-1{
+    width: 672.5px;
+    height: 600px;
+    background-color: teal;
+}
+
+.div-2{
+    width:672.5px;
+    height: 600px;
+    background-color: thistle;
+}
+
+.section-2 {
+    display: flex;
+}
