@@ -7,9 +7,6 @@
     position: relative;
 }
 
-.section {
-    display: flex;
-}
 
 .header{
     display: flex;
@@ -43,16 +40,20 @@
 
 
 .div-h2 {
-    
     position: absolute;
-    top: 30%;
-    left: 17%;
+    width: 1280px;
+    height: 200px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
 }
 
 .lorem {
     font-family: 'Lato', sans-serif;
     font-size: 100px;
     color: white;
+    
 }
 
 
@@ -72,10 +73,11 @@
 
 .section-2 {
     display: flex;
+   
 }
 
 .img-1 {
-    width: 608px;
+    width: 607.8px;
 }
 
 .box-1 {
@@ -112,15 +114,21 @@
     margin-top: 90px;
     margin-left: 90px;
     border-radius: 45px;
-    /* position: relative; */
+    position: absolute;
+    
 }
 
 
 .projects {
     position: absolute;
-    /* transform: translate(-50% -50%); */
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 153.5px;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
 }
 
-.box-projects {
-    position: relative;
-}
+/* section 3 */
