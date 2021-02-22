@@ -214,27 +214,58 @@
 .h4 {
     width: 100px;
     margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
 }
 
 .p4 {
     width: 200px;
     margin: 0 auto;
     margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    color: #707070;
 }
 
 .p4-2 {
     width: 190px;
     margin: 0 auto;
     margin-top: 3px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    color: #707070;
 }
 
 .p4-3 {
     width: 180px;
     margin: 0 auto;
     margin-top: 3px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    color: #707070;
 }
 .p4-4 {
     width: 180px;
     margin: 0 auto;
     margin-top: 3px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    color: #707070;
+}
+
+.h5 {
+    width: 60px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.h6 {
+    width: 50px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    font-weight: bold;
 }
